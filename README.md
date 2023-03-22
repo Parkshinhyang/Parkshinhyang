@@ -1,5 +1,10 @@
 <div align=center>
   
+  ## Profile
+  
+  Name : Parkshinhyang
+  Birth : 2002.03.02
+  
   ## Statistics
   
   ![Parkshinhyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkshinhyang&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkshinhyang&layout=compact&theme=dark)
