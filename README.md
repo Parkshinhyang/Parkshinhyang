@@ -16,7 +16,14 @@
   
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
   
-  ## 📊GItHub Stats📊
+  ##  target language
+  
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+  
+  
+  ## 📊GitHub Stats📊
   
   ![Parkshinhyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkshinhyang&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkshinhyang&layout=compact&theme=dark)
   
