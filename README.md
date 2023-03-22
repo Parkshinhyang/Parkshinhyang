@@ -14,6 +14,8 @@
   
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
   
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  
   ## 📊GItHub Stats📊
   
   ![Parkshinhyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkshinhyang&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkshinhyang&layout=compact&theme=dark)
