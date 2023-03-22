@@ -4,7 +4,9 @@
   
   Name : Parkshinhyang
   
-  Birth : 2002.03.02
+  Birth : 2002.03.02.
+  
+  Major : Computer Engineering
   
   ## Statistics
   
