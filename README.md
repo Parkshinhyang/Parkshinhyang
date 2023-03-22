@@ -1,6 +1,6 @@
 <div align=center>
   
-  ## Profile
+  ## ✨Profile✨
   
   Name : Parkshinhyang
   
@@ -8,7 +8,11 @@
   
   Major : Computer Engineering
   
-  ## Statistics
+  ## 🛠Language🛠
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  
+  ## 📊GItHub Stats📊
   
   ![Parkshinhyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkshinhyang&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkshinhyang&layout=compact&theme=dark)
   
