@@ -14,6 +14,8 @@
   
   <img src="https://img.shields.io/badge/Stack Overflow-FF6719?style=for-the-badge&logo=Stack Overflow&logoColor=white">
   
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
   ##  Target language
   
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> 
